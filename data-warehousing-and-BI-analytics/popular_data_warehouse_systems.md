@@ -1,0 +1,10 @@
+- Oracle Exadata: Deployable on premise and on cloud
+- IBM NETEZZA
+- Amazon Redshift
+- Snowflake
+- Google bigQuery
+- Microsoft Azure synapse analytics
+- Teradata Vantage
+- IBM Db2 Warehouse
+- Vertica
+- Oracle autonomous Data warehouse
